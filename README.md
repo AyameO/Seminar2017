@@ -1,4 +1,4 @@
-# Seminar201７LP
+# Seminar201７LS
 ## 2017年後期ゼミの成果物
 [See PDF](https://github.com/AyameO/Seminar2017LP/issues/1)
 * 11/13　グラレコ入門 by 和田あずみさん 【プレ・古橋研ゼミで実施】
